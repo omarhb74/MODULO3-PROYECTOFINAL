@@ -1,0 +1,10 @@
+creacion de la Base de datos
+CREATE DATABASE PROYECTO
+
+creacion de tabla
+CREATE TABLE usuario (
+	id_usuario serial primary key,
+	nombre_completo varchar (50),
+	edad integer
+)
+
