@@ -55,7 +55,10 @@ ayuda para instalar:
 INSTALACION DEL SISTEMA
 ------------------------
 
-unidadDisco:\MODULO3-PROYECTOFINAL\src\index.js
+modulo principal :
+unidadDisco:\MODULO3-PROYECTOFINAL\src\index.js 
+
+
 unidadDisco:\MODULO3-PROYECTOFINAL\node_modules
 unidadDisco:\MODULO3-PROYECTOFINAL\package.json
 unidadDisco:\MODULO3-PROYECTOFINAL\package-lock.json
@@ -67,8 +70,11 @@ USO DEL SISTEMA
 ---------------
 
 de acuerdo al requerimiento se tiene los siguientes modulos o funciones:
+ejecutar desde visual studio code : node /src/index.js
 
 
+CURLS:
+------
 LISTA DE USUARIOS : 
 -------------------
 
@@ -78,7 +84,12 @@ LISTA DE USUARIOS :
 AÑADIR USUARIO:
 ---------------
 
-	FUNCION POST DESDE POSTMAN EN FORMATO JSON
+	FUNCION POST DESDE POSTMAN EN FORMATO JSON  
+{
+    "nombre_completo": "Jose Grillo",
+    "edad":"10"
+}
+
 	RUTA : localhost:3000/usuarios
 
 PROMEDIO EDADES:
