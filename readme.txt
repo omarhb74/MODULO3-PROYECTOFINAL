@@ -34,6 +34,35 @@ const config = {
     idleTimeoutMillis : 30000  //definicion de timeout
 }
 
+
+
+INSTALACION DE MODULOS
+----------------------
+
+en nodejs es necesario instalar los siguientes modulos :
+
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "pg": "^8.8.0"
+
+
+ayuda para instalar:
+
+	npm install body-parser
+	npm install express
+	npm install pg
+
+INSTALACION DEL SISTEMA
+------------------------
+
+unidadDisco:\MODULO3-PROYECTOFINAL\src\index.js
+unidadDisco:\MODULO3-PROYECTOFINAL\node_modules
+unidadDisco:\MODULO3-PROYECTOFINAL\package.json
+unidadDisco:\MODULO3-PROYECTOFINAL\package-lock.json
+unidadDisco:\MODULO3-PROYECTOFINAL\readme.txt
+
+
+
 USO DEL SISTEMA
 ---------------
 
@@ -66,32 +95,6 @@ INFORMACION DEL SISTEMA:
 
 
 
-
-
-INSTALACION DE MODULOS
-----------------------
-
-en nodejs es necesario instalar los siguientes modulos :
-
-    "body-parser": "^1.20.1",
-    "express": "^4.18.2",
-    "pg": "^8.8.0"
-
-
-ayuda para instalar:
-
-	npm install body-parser
-	npm install express
-	npm install pg
-
-INSTALACION DEL SISTEMA
-------------------------
-
-unidadDisco:\MODULO3-PROYECTOFINAL\src\index.js
-unidadDisco:\MODULO3-PROYECTOFINAL\node_modules
-unidadDisco:\MODULO3-PROYECTOFINAL\package.json
-unidadDisco:\MODULO3-PROYECTOFINAL\package-lock.json
-unidadDisco:\MODULO3-PROYECTOFINAL\readme.txt
 
 
 
